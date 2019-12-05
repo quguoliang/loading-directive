@@ -1,8 +1,9 @@
 {
   "name": "loading-directive",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "main": "./dist/loading-directive.umd.min.js",
+  "keywords":["vue","loading","vue-directive"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
